@@ -1,0 +1,16 @@
+Credits for mods featured in this pack
+---
+HD Payload - NassimO
+HD Truck  - NassimO
+HD Train - NassimO
+Animated 2fort map - NassimO
+TF2C Particles - Panzermann11
+TF2C Sniper Rifle Bolt Sounds - ScrapMetal101
+TF2C Medigun Handle Movement - ScrapMetal101
+Higher Quality Vote Sounds - ScrapMetal101
+Ultra High Textures (mat_picmip -10 returns) - Showin
+2K Upscaled Mercenaries Bodies - Swoozle
+Fixed Invulnerability Textures - Swoozle
+Refined 2K Upscaled Faces - SuperMario20
+Giblet Overhaul 2020 (Mod Compatible) - Allen Scott
+Reflective Water - LOL_DUDE
