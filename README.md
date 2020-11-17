@@ -8,4 +8,6 @@ This pack might be prone to crashing, in which case, please make an issue so I c
 
 This pack doesn't include Hi-Poly/SFM player models because they tend to clip with most arm cosmetics.
 
+This pack is intended for relativley modern computers, and might cause performance issues on lower end systems.
+
 I didn't create the vast majority of these mods, and a credits list can be found in credits.txt. Most of these mods have been released on gamebanana under a CC BY-NC-ND 4.0 license, meaning I am free to redistribute these files, without editing them. If your mod is in here, and you wish to contact me, feel free to create an issue or contact me directly on discord at Digivee#6205.
