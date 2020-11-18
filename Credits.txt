@@ -18,3 +18,4 @@ Reflective Water - LOL_DUDE
 Open Fortress Class Icons - Mining Man Miner
 Denoised and 2k Upscaled Zombies - SuperMario20
 Liberty Launcher Redux - Skeleton Hotel
+SFM Like Phong & Normal Maps - Skeleton Hotel
