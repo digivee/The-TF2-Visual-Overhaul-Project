@@ -11,3 +11,5 @@ This pack doesn't include Hi-Poly/SFM player models because they tend to clip wi
 This pack is intended for relativley modern computers, and might cause performance issues on lower end systems.
 
 I didn't create the vast majority of these mods, and a credits list can be found in credits.txt. Most of these mods have been released on gamebanana under a CC BY-NC-ND 4.0 license, meaning I am free to redistribute these files, without editing them. If your mod is in here, and you wish to contact me, feel free to create an issue or contact me directly on discord at Digivee#6205.
+
+# Please check the [FAQ](https://github.com/digivee/The-TF2-Visual-Overhaul-Project/wiki/FAQ) before installing.
