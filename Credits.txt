@@ -21,4 +21,4 @@ Liberty Launcher Redux - Skeleton Hotel
 SFM Like Phong & Normal Maps - Skeleton Hotel
 TF2C buildings - Panzermann11
 Upscaled SFM intel - Digivee
-TF2C ammo and health pickups - Digivee
+Upscaled TF2C ammo and health pickups - Digivee
