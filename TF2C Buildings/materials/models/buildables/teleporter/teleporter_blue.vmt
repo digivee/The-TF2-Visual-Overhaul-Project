@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/buildables/teleporter/teleporter.vmt"
+	
+	insert
+	{
+	"$basetexture"	"models\buildables\teleporter\tp_sheet_blue"
+	}
+}

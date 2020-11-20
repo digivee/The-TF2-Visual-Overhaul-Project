@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\buildables\sentry2\sentry2"
+	"$bumpmap" 	"models\buildables\sentry2\sentry2_normal"
+	"$phong" "1"
+	"$phongboost" "5"
+	"$phongexponent" "25"
+	"$lightwarptexture" "models\buildables\sentry1\sentry1_lightwarp"
+	"$phongfresnelranges"	"[.5 1.5 10]"
+	<dx90
+	{
+		"$selfillum" "1"
+	}
+
+
+	"$rimlight" "1"		
+	"$rimlightexponent" "4"				
+	"$rimlightboost" "1.5"
+	
+
+}

@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/buildables/sentry3/sentry3.vmt"
+	
+	insert
+	{
+	"$basetexture"	"models\buildables\sentry3\sentry3_blue"
+	}
+}

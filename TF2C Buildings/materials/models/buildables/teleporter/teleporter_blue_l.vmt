@@ -1,0 +1,21 @@
+"Patch"
+{
+	include "materials/models/buildables/teleporter/teleporter_blue.vmt"
+	
+	insert
+	{
+	>=dx90
+		{
+			"$selfillummask"	"models\buildables\teleporter\tp_lights"
+			"$selfillumtint" "[1.95 1.35 .54]"
+			"$selfillum" "1"
+		}
+	<dx90
+		{
+		"$detail" "models\buildables\teleporter\tp_lights_blue"
+		"$detailscale" "1"
+		"$detailblendfactor" .9
+		"$detailblendmode" 6
+		}
+	}
+}
