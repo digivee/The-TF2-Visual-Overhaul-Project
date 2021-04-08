@@ -1,4 +1,5 @@
-Credits for mods featured in this pack. Almost all of these mods were released under Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License on gamebanana. If you do not want your mod in this pack, consider changing what CC you release your stuff under, and please contact me directly to remove/replace your content.
+Credits for mods featured in this pack. Almost all of these mods were released under Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License on gamebanana. However, I am not infalible and could have missed a few special cases.
+If you do not want your mod in this pack, please double check what CC liscence you release your stuff under, and please contact me directly to remove/replace your content.
 ---
 TF2C style setup music - Digivee
 HD Payload - NassimO
