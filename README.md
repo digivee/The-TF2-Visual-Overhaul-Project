@@ -1,4 +1,5 @@
-# The TF2 Visual Overhaul Project
+![image](https://user-images.githubusercontent.com/14162763/114098773-d8348d00-988f-11eb-8719-40f53097a459.png)
+
 A collection of mods designed to enhance TF2's graphics and sounds without stepping on valves original artistic vision.
 
 # Things to note before installing
