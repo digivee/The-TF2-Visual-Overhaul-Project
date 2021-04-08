@@ -1,4 +1,4 @@
-Credits for mods featured in this pack
+Credits for mods featured in this pack. Almost all of these mods were released under Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License on gamebanana. If you do not want your mod in this pack, consider changing what CC you release your stuff under, and please contact me directly to remove/replace your content.
 ---
 TF2C style setup music - Digivee
 HD Payload - NassimO
@@ -11,7 +11,7 @@ Ultra High Textures (mat_picmip -10 returns) - Showin
 2K Upscaled Mercenaries Bodies - Swoozle
 Fixed Invulnerability Textures - Swoozle
 Refined 2K Upscaled Faces - SuperMario20
-Giblet Overhaul 2020 (Disabled Currently) - Allen Scott
+Giblet Overhaul 2021 - Allen Scott
 Reflective Water - LOL_DUDE
 Open Fortress Class Icons - Mining Man Miner
 Denoised and 2k Upscaled Zombies - SuperMario20
@@ -20,3 +20,5 @@ SFM Like Phong & Normal Maps - Skeleton Hotel
 TF2C buildings - Panzermann11
 Upscaled SFM intel - Digivee
 Upscaled TF2C ammo and health pickups - Digivee
+Pistol Enhancement Pack - newguy111
+Official Hipoly Viewmodel arms  - newguy111
