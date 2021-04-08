@@ -4,8 +4,6 @@ TF2C style setup music - Digivee
 HD Payload - NassimO
 HD Truck  - NassimO
 HD Train - NassimO
-Animated 2fort map - NassimO
-TF2C Particles - Panzermann11
 TF2C Sniper Rifle Bolt Sounds - ScrapMetal101
 TF2C Medigun Handle Movement - ScrapMetal101
 Higher Quality Vote Sounds - ScrapMetal101
