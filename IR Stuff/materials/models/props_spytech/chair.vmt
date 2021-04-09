@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_spytech/chair"
+	"$bumpmap" "Models/props_spytech/chair_normal"
+
+	"$phong" "1"
+	"$phongexponenttexture" "Models/props_spytech/chair_exp"
+//	"$phongexponent" "21"
+	"$phongboost" "1"	
+//	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[2 1 .8]"
+	"$halflambert" "0"
+}
