@@ -22,7 +22,6 @@ Burning Materials Redux - Skeleton Hotel
 Upscaled SFM intel - Digivee
 Upscaled TF2C ammo and health pickups - Digivee
 Pistol Enhancement Pack - newguy111
-Official Hipoly Viewmodel arms - newguy111
 Realistic Bolt Overhaul - newguy111
 Illustrative Rendering Spytech Chair - gimmethatmarajuana
 Sfm Weapons Pack - newguy111
