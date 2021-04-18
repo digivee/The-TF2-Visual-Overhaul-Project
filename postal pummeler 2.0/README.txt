@@ -1,1 +1,0 @@
-to install simply choose either default redux or mailfraud, open the folder and copy the folders to your steam/steamapps/(your steam id)/team fortress 2/tf folder
