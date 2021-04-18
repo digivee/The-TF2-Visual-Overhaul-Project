@@ -13,6 +13,7 @@ Ultra High Textures (mat_picmip -10 returns) - Showin
 Fixed Invulnerability Textures - Swoozle
 Refined 2K Upscaled Faces - SuperMario20
 Giblet Overhaul 2021 - Allen Scott
+Left Side Shell Ejection Collection - Allen Scott
 Reflective Water - LOL_DUDE
 Open Fortress Class Icons - Mining Man Miner
 Denoised and 2k Upscaled Zombies - SuperMario20
