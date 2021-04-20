@@ -8,7 +8,7 @@ HD Train - NassimO
 TF2C Sniper Rifle Bolt Sounds - ScrapMetal101
 TF2C Medigun Handle Movement - ScrapMetal101
 Higher Quality Vote Sounds - ScrapMetal101
-Ultra High Textures (mat_picmip -10 returns) - Showin
+Mat_Picmip -10 Texture Fix Pack - Deprecated, Ficool2
 2K Upscaled Mercenaries Bodies - Swoozle
 Fixed Invulnerability Textures - Swoozle
 Refined 2K Upscaled Faces - SuperMario20
