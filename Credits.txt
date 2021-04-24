@@ -34,3 +34,4 @@ postal pummeler 2.0 - DonutBear
 CPv2001 Animated Capture Point - Alistor, MrStriker
 Animated Computer Reels - HypnOS 1999
 Animated Computers - Mr Funreal
+Consistent and Missing Kill Icons - Dement, -Dark-, Hootaro_Hoestar
