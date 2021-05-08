@@ -35,3 +35,4 @@ Animated Computer Reels - HypnOS 1999
 Animated Computers - Mr Funreal
 Consistent and Missing Kill Icons - Dement, -Dark-, Hootaro_Hoestar
 Demoman's Weaponry Improvement Pack - newguy111
+SFM Viewmodels (sans pyro due to hothand clipping) - Ghost Cage, N-Cognito, Game Zombie, Wingserver
