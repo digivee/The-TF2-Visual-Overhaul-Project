@@ -2,6 +2,7 @@ Credits for mods featured in this pack. Almost all of these mods were released u
 If you do not want your mod in this pack, please double check what CC license you release your stuff under, and please contact me directly to remove/replace your content.
 ---
 TF2C style setup music - Digivee
+TF2C Bullet Wounds - Digivee
 HD Payload - NassimO
 HD Truck  - NassimO
 HD Train - NassimO
