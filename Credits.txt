@@ -39,3 +39,4 @@ Demoman's Weaponry Improvement Pack - newguy111
 SFM Viewmodels (sans pyro due to hothand clipping) - Ghost Cage, N-Cognito, Game Zombie, Wingserver
 Enhanced Dragon's Fury - N-Cognito
 Hi-Res Degreaser Fix - N-Cognito, joungster
+TIP Sandvich - Atomic TEM
