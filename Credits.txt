@@ -13,7 +13,7 @@ Mat_Picmip -10 Texture Fix Pack - Deprecated, Ficool2
 2K Upscaled Mercenaries Bodies - Swoozle
 Fixed Invulnerability Textures - Swoozle
 Refined 2K Upscaled Faces - SuperMario20
-Giblet Overhaul 2021 - Allen Scott
+TF2c Giblet Overhaul 2021 - Allen Scott
 Left Side Shell Ejection Collection - Allen Scott
 Reflective Water - LOL_DUDE
 Open Fortress Class Icons - Mining Man Miner
@@ -37,3 +37,5 @@ Animated Computers - Mr Funreal
 Consistent and Missing Kill Icons - Dement, -Dark-, Hootaro_Hoestar
 Demoman's Weaponry Improvement Pack - newguy111
 SFM Viewmodels (sans pyro due to hothand clipping) - Ghost Cage, N-Cognito, Game Zombie, Wingserver
+Enhanced Dragon's Fury - N-Cognito
+Hi-Res Degreaser Fix - N-Cognito, joungster
