@@ -1,7 +1,6 @@
 Credits for mods featured in this pack. Almost all of these mods were released under Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License on gamebanana. However, I am not infallible and could have missed a few special cases.
-If you do not want your mod in this pack, please double check what CC license you release your stuff under, and please contact me directly to remove/replace your content.
+If you do not want your mod in this pack, please double check what CC license you release your stuff under, and please contact me directly 9via discord or by opening up and issue) to remove/replace your content.
 ---
-TF2C style setup music - Digivee
 TF2C Bullet Wounds - Digivee
 HD Payload - NassimO
 HD Truck  - NassimO
@@ -42,3 +41,4 @@ Hi-Res Degreaser Fix - N-Cognito, joungster
 TIP Sandvich - Atomic TEM
 Enhanced Jarate and Mad Milk - Blaco
 HD Shell Pack - Jasper
+Sloofy's Overhauled UI Portraits (SOUP) - Sloofy, Alaxe, Albin1997536, Game Zombie, maxxysfm, NeoDement, Pte Jack, R234 SediSocks
