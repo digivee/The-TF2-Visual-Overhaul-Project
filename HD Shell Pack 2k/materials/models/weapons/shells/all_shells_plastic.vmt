@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/weapons/shells/shells"
+	"$bumpmap" "models\weapons\shells\shells_normal"
+
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong" "1"
+	"$phongboost" "12"
+	"$phongexponent" "25"	
+	"$phongexponenttexture" "models/weapons/shells/shells_exponent"
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges"	"[.25 .5 1]"
+}
+
