@@ -40,3 +40,5 @@ SFM Viewmodels (sans pyro due to hothand clipping) - Ghost Cage, N-Cognito, Game
 Enhanced Dragon's Fury - N-Cognito
 Hi-Res Degreaser Fix - N-Cognito, joungster
 TIP Sandvich - Atomic TEM
+Enhanced Jarate and Mad Milk - Blaco
+HD Shell Pack - Jasper
