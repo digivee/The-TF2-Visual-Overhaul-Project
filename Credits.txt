@@ -42,3 +42,4 @@ TIP Sandvich - Atomic TEM
 Enhanced Jarate and Mad Milk - Blaco
 HD Shell Pack - Jasper
 Sloofy's Overhauled UI Portraits (SOUP) - Sloofy, Alaxe, Albin1997536, Game Zombie, maxxysfm, NeoDement, Pte Jack, R234 SediSocks
+Source Text Refont [Better Looking Default Text] - Fred McFrizzle
