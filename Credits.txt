@@ -47,3 +47,4 @@ Improved Gunboats - -Dark-
 Improved Lolichop - -Dark-
 TIP Kritzkrieg - Atomic Tem, TIP Team
 Improved Stock Weapon Materials - Nonhuman
+MISC TIP textures - TIP, TF2C Team
