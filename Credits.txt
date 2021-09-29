@@ -48,3 +48,6 @@ Improved Lolichop - -Dark-
 TIP Kritzkrieg - Atomic Tem, TIP Team
 Improved Stock Weapon Materials - Nonhuman
 MISC TIP textures - TIP, TF2C Team
+Unique Rockets - Atomic Tem
+Enhanced Direct Hit - TODO ADD LATER
+Revamped Cleaver - TODO ADD LATER
